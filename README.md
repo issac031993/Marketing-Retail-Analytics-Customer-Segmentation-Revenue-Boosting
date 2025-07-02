@@ -74,7 +74,8 @@ CATEGORIES](https://github.com/user-attachments/assets/530d2d69-a90b-4df2-9e34-e
 ✅ **Impact:** Designed to **boost cross-selling** and increase average transaction value.
 
 ### 📈 Key Visualizations
-Plese Refer the pdfs attached to the repository
+Plese Refer the pdfs attached to the repository for complete visualisations.
+![SUGGESTION OF COMBOS](https://github.com/user-attachments/assets/41958298-becd-4b16-8fba-ad3db6684825)
 
 ---
 
