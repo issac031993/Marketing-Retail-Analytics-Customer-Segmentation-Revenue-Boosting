@@ -34,9 +34,18 @@ This project explores **customer behavior and sales optimization** across two re
 - Plan **seasonal campaigns** to address November sales dips.
 
 ### 📈 Key Visualizations
-![Sales Trends](images/sales_trends.png)
-![Category Sales Boxplots](images/category_boxplots.png)
-![RFM Segments](images/rfm_segments.png)
+![WEEKLY & MONTHLY TRENDS IN SALES](https://github.com/user-attachments/assets/7f81fc95-310f-4eff-8b18-fd1a1993e51a)
+
+![QUARTERLY AND YEARLY SALES TREND](https://github.com/user-attachments/assets/d1afc42d-2258-46cd-af32-3f2924310fc2)
+
+![BIVARIATE ANALYSIS: 
+SALES ACROSS DIFFERENT 
+CATEGORIES](https://github.com/user-attachments/assets/530d2d69-a90b-4df2-9e34-e41bbc97eaa9)
+
+![BI VARIATE ANALYSIS:
+ SALES ACROSS COUNTRIES](https://github.com/user-attachments/assets/f8f133bf-bafb-424c-a461-ab4a9a6bd131)
+
+![KNIME WORKFLOW](https://github.com/user-attachments/assets/66371bdf-827f-4e9a-91d3-16663796d7b6)
 
 ---
 
@@ -65,9 +74,7 @@ This project explores **customer behavior and sales optimization** across two re
 ✅ **Impact:** Designed to **boost cross-selling** and increase average transaction value.
 
 ### 📈 Key Visualizations
-![Market Basket Graph](images/market_basket_graph.png)
-![Top Association Rules](images/association_rules.png)
-![Suggested Combos](images/combos_table.png)
+Plese Refer the pdfs attached to the repository
 
 ---
 
